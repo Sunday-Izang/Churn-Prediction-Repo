@@ -1,4 +1,4 @@
-#Data Science Project
+#Data Science & Machine Learning Project
 
 Customers are the lifeline of every organization. Every business needs to find a way of keeping their customers because in real sense, 
 it is more easy to retain your existing customer than to find new ones.
@@ -7,7 +7,7 @@ This project loads and explores a Telco Customer data from kaggle, manipulates a
 for advanced analysis and modeling. 
 
 
-Objectives¶
+Objectives
 
 I will explore the data and try to answer some questions like:
 
