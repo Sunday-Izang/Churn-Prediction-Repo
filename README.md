@@ -17,3 +17,5 @@ I will explore the data and try to answer some questions like:
 - Which features and services are most profitable?
 - What's the most profitable service types?
 - Many more questions that will arise during the analysis 
+
+Way to go.
