@@ -18,7 +18,7 @@ list_of_files = [
     f"src/{project_name}/notebooks/__init__.py",
     f"src/{project_name}/static/__init__.py",
     "config/config.yaml",
-    "dvc,yaml",
+    "dvc.yaml",
     "params.yaml",
     "requirements.txt",
     "setup.py",
